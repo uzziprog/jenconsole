@@ -8,6 +8,7 @@ namespace jenconsole
         {
             Console.WriteLine("Hello jenkins!");
             Console.WriteLine("changged");
+            Console.WriteLine("more to push");
         }
     }
 }
