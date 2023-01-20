@@ -7,6 +7,7 @@ namespace jenconsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello jenkins!");
+            Console.WriteLine("park");
         }
     }
 }
